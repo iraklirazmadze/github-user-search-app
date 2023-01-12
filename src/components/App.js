@@ -6,7 +6,7 @@ import InformationBox from "./InformationBox"
 
 function App() {
 const [lightMode,setLightMode] = useState(false);
-const [userName,setUserName] = useState("razmaaaa");
+const [userName,setUserName] = useState("iraklirazmadze");
 const [data,setData] = useState({created_at:"as"});
 
 
